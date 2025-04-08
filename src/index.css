@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .neon-glow {
+    box-shadow: 0 0 15px rgba(192, 132, 252, 0.6), 0 0 30px rgba(192, 132, 252, 0.4);
+    transition: all 0.3s ease-in-out;
+  }
+
+  .animate-spin-slow {
+    animation: spin 20s linear infinite;
+  }
+
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+}
