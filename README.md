@@ -4,12 +4,12 @@ Une application web destinée aux **coachs sportifs indépendants** pour gérer 
 
 > 🚧 Projet en cours de développement
 
- ##📸 Aperçu
+ ## 📸 Aperçu
 
  ![Capture d'écran 2025-04-15 234403](https://github.com/user-attachments/assets/9408e6a0-20d0-4a8d-af0f-76a8c36d286a)
 
 
-##🌍 Accès en ligne
+## 🌍 Accès en ligne
 
 Vous pouvez accéder à l'application en ligne ici : coach-e217c.web.app
 
